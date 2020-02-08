@@ -1,0 +1,7 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="tab_spacing_half">5dp</dimen>
+    <dimen name="normalPadding">20dp</dimen>
+    <dimen name="headerTextSize">25sp</dimen>
+    <dimen name="headerMoreTextSize">18sp</dimen>
+</resources>
